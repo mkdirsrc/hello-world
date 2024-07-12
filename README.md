@@ -7,6 +7,6 @@ This repository is for practicing the GitHub Flow.
 - three
 
 ```js
-let  arr = [1, 2, 3]
-console.log(arr.length)
+const arr = [1, 2, 3];
+console.log(arr.length);
 ```
